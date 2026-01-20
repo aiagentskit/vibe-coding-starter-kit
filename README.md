@@ -15,7 +15,7 @@
 [Directory Guide](#-directory-guide) •
 [Best Practices](#-best-practices) •
 [Examples](#-example-project) •
-[Visit Website](https://www.aiagentskit.com)
+[www.aiagentskit.com](https://www.aiagentskit.com)
 
 </div>
 
